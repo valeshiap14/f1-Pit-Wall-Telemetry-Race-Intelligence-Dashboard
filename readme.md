@@ -719,19 +719,19 @@ cd f1-pitwall
 
 Create a virtual environment:
 
-```bash
+```
 python -m venv .venv
 ```
 
 On Windows, activate it using:
 
-```bash
+```
 .venv\Scripts\activate
 ```
 
 Install the required packages:
 
-```bash
+```
 python -m pip install -r requirements.txt
 ```
 
@@ -745,7 +745,7 @@ FastF1 will retrieve the required session information when the dashboard loads a
 
 Start the Streamlit application with:
 
-```bash
+```
 python -m streamlit run app.py
 ```
 
@@ -770,7 +770,7 @@ I created automated tests for some of the most important analytical calculations
 
 The tests can be run using:
 
-```bash
+```
 python -m pytest tests -v
 ```
 
@@ -791,45 +791,10 @@ During development I used these tests to make sure changes to one part of the pr
 
 ---
 
-# Screenshots
+# preview
 
-Screenshots of the dashboard can be added here.
+<img width="1343" height="637" alt="image" src="https://github.com/user-attachments/assets/9daa02cc-d9f6-45fe-a029-210f12262bd6" />
 
-## Race Overview
-
-`Screenshot coming soon`
-
-## Driver Comparison
-
-`Screenshot coming soon`
-
-## Telemetry
-
-`Screenshot coming soon`
-
-## Track Map
-
-`Screenshot coming soon`
-
-## Corner Analysis
-
-`Screenshot coming soon`
-
-## Tyre Performance
-
-`Screenshot coming soon`
-
-## Track Evolution
-
-`Screenshot coming soon`
-
-## Strategy Analysis
-
-`Screenshot coming soon`
-
-## Predictive Analytics
-
-`Screenshot coming soon`
 
 ---
 
