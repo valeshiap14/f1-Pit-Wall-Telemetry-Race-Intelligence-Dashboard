@@ -846,39 +846,6 @@ Because of this, tyre degradation values should be treated as analytical estimat
 The machine-learning models are experimental statistical models based on available data and should not be treated as professional Formula 1 simulation models.
 
 The strategy analysis also does not currently model every variable involved in a real Formula 1 race.
-
----
-
-# Future Improvements
-
-There are still a lot of things I would like to experiment with and add to the project.
-
-Some future ideas include:
-
-- FastAPI backend
-- PostgreSQL database
-- Docker
-- Cloud deployment
-- Better corner detection
-- Official corner information
-- Multi-lap telemetry comparison
-- Racing-line comparison
-- Better braking analysis
-- Fuel-corrected pace
-- Traffic detection
-- Tyre warm-up modelling
-- Undercut analysis
-- Overcut analysis
-- Safety Car strategy simulation
-- Pit-loss modelling
-- Monte Carlo race simulations
-- Feature importance
-- SHAP model explanations
-- Models trained across multiple races
-- Circuit-specific machine-learning models
-- Automated race reports
-- GitHub Actions for automated testing
-
 ---
 
 # What I Learned
